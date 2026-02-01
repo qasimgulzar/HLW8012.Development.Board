@@ -18,12 +18,11 @@ This is a KiCad project for a basic interface board using the HLW8012 energy met
 
 ## HLW8012 Datasheet
 
-<details>
-  <summary>Click to view the HLW8012 Datasheet (PDF)</summary>
+[Click here to view the HLW8012 Datasheet (PDF)](./HLW8012.pdf)
 
-  <iframe src="HLW8012.pdf" width="100%" height="600px"></iframe>
-
-</details>
+<!-- Optionally, add a screenshot of the datasheet's first page for visual context:
+![HLW8012 Datasheet Preview](images/hlw8012-datasheet-preview.png)
+-->
 
 ## Usage
 1. Use the provided schematic and PCB files in KiCad to review or modify the design.
