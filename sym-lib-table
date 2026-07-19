@@ -1,4 +1,7 @@
 (sym_lib_table
   (version 7)
   (lib (name "HLW8012")(type "KiCad")(uri "${KIPRJMOD}/lib/HLW8012/HLW8012.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_PCI_Express")(type "Legacy")(uri "/Users/qasimgulzar/Documents/KiCad/9.0/symbols/Connector_PCI_Express.lib")(options "")(descr ""))
+  (lib (name "doragasu")(type "KiCad")(uri "/Users/qasimgulzar/Documents/KiCad/9.0/symbols/doragasu.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP-01")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP-01/ESP-01.kicad_sym")(options "")(descr ""))
 )

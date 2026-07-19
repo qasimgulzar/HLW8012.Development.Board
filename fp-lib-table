@@ -1,4 +1,8 @@
 (fp_lib_table
   (version 7)
   (lib (name "HLW8012")(type "KiCad")(uri "${KIPRJMOD}/lib/HLW8012")(options "")(descr ""))
+  (lib (name "Connector_Storage")(type "KiCad")(uri "/Users/qasimgulzar/Documents/KiCad/9.0/footprints/Connector_Storage.pretty")(options "")(descr ""))
+  (lib (name "Connector_PCI_Express_TH")(type "KiCad")(uri "/Users/qasimgulzar/Documents/KiCad/9.0/footprints/Connector_PCI_Express_TH.pretty")(options "")(descr ""))
+  (lib (name "doragasu-footprints")(type "KiCad")(uri "/Users/qasimgulzar/Documents/KiCad/9.0/footprints/doragasu-footprints")(options "")(descr ""))
+  (lib (name "ESP-01")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP-01")(options "")(descr ""))
 )
